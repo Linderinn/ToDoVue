@@ -3,6 +3,7 @@
 A todo application written using Vue.js.
 Styling and programming applications is another task that teaches me how to use Vue.js in practice.
 
+![Screen](src/assets/images/todovue1.JPG)
 
 ________________________________________________________________________
 
