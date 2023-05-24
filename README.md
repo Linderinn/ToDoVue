@@ -1,6 +1,11 @@
-# -todo
+# -todo App
 
-This template should help get you started developing with Vue 3 in Vite.
+A todo application written using Vue.js.
+Styling and programming applications is another task that teaches me how to use Vue.js in practice.
+
+
+________________________________________________________________________
+
 
 ## Recommended IDE Setup
 
